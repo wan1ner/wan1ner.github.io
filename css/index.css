@@ -6408,12 +6408,12 @@ blockquote.pullquote.right {
 /* 字体引入 */
 
 
-/*@font-face {
+@font-face {
   font-family: YSHST;
-  src: url(https://data-static.netdun.net/Fomalhaut/fonts/优设好身体.woff2);
+  src: url(/font/优设好身体.woff2);
   font-display: swap;
 }
-
+/*
 @font-face {
   font-family: MiSans;
   src: url(https://data-static.netdun.net/Fomalhaut/fonts/MiSans.woff2);
