@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://wan1ner.github.io/box/animation/index.html</loc>
+    <loc>https://wan1ner.github.io/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://wan1ner.github.io/personal/bb/index.html</loc>
+    <loc>https://wan1ner.github.io/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -66,15 +66,6 @@
   
   <url>
     <loc>https://wan1ner.github.io/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wan1ner.github.io/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -101,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://wan1ner.github.io/life/music/index.html</loc>
+    <loc>https://wan1ner.github.io/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -119,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://wan1ner.github.io/site/census/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wan1ner.github.io/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -137,7 +119,25 @@
   </url>
   
   <url>
+    <loc>https://wan1ner.github.io/life/music/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wan1ner.github.io/social/link/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wan1ner.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -212,14 +212,14 @@
   </url>
   
   <url>
-    <loc>https://wan1ner.github.io/categories/Hexo/</loc>
+    <loc>https://wan1ner.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wan1ner.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://wan1ner.github.io/categories/Hexo/</loc>
     <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
